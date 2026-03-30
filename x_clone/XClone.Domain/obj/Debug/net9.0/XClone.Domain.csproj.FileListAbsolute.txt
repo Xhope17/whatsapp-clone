@@ -1,0 +1,15 @@
+C:\Users\Xhope\Desktop\clases\github\vmt-bootcamp\backend\x_clone\XClone.Domain\bin\Debug\net9.0\XClone.Domain.deps.json
+C:\Users\Xhope\Desktop\clases\github\vmt-bootcamp\backend\x_clone\XClone.Domain\bin\Debug\net9.0\XClone.Domain.runtimeconfig.json
+C:\Users\Xhope\Desktop\clases\github\vmt-bootcamp\backend\x_clone\XClone.Domain\bin\Debug\net9.0\XClone.Domain.dll
+C:\Users\Xhope\Desktop\clases\github\vmt-bootcamp\backend\x_clone\XClone.Domain\bin\Debug\net9.0\XClone.Domain.pdb
+C:\Users\Xhope\Desktop\clases\github\vmt-bootcamp\backend\x_clone\XClone.Domain\obj\Debug\net9.0\XClone.Domain.csproj.AssemblyReference.cache
+C:\Users\Xhope\Desktop\clases\github\vmt-bootcamp\backend\x_clone\XClone.Domain\obj\Debug\net9.0\XClone.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xhope\Desktop\clases\github\vmt-bootcamp\backend\x_clone\XClone.Domain\obj\Debug\net9.0\XClone.Domain.AssemblyInfoInputs.cache
+C:\Users\Xhope\Desktop\clases\github\vmt-bootcamp\backend\x_clone\XClone.Domain\obj\Debug\net9.0\XClone.Domain.AssemblyInfo.cs
+C:\Users\Xhope\Desktop\clases\github\vmt-bootcamp\backend\x_clone\XClone.Domain\obj\Debug\net9.0\XClone.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Xhope\Desktop\clases\github\vmt-bootcamp\backend\x_clone\XClone.Domain\obj\Debug\net9.0\XClone.Domain.sourcelink.json
+C:\Users\Xhope\Desktop\clases\github\vmt-bootcamp\backend\x_clone\XClone.Domain\obj\Debug\net9.0\XClone.Domain.dll
+C:\Users\Xhope\Desktop\clases\github\vmt-bootcamp\backend\x_clone\XClone.Domain\obj\Debug\net9.0\refint\XClone.Domain.dll
+C:\Users\Xhope\Desktop\clases\github\vmt-bootcamp\backend\x_clone\XClone.Domain\obj\Debug\net9.0\XClone.Domain.pdb
+C:\Users\Xhope\Desktop\clases\github\vmt-bootcamp\backend\x_clone\XClone.Domain\obj\Debug\net9.0\XClone.Domain.genruntimeconfig.cache
+C:\Users\Xhope\Desktop\clases\github\vmt-bootcamp\backend\x_clone\XClone.Domain\obj\Debug\net9.0\ref\XClone.Domain.dll
